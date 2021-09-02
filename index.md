@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Aditya Chakka's First CS193 Homework
+
+#Favorite things about CS 193
+- Bulleted List Item #1
+- Bulleted List Item #2
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
